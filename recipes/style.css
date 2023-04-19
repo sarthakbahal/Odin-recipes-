@@ -37,3 +37,20 @@ p{
     background-color: blueviolet;
     color: white;
 }
+
+/* below this , it is for fried rice */
+
+.head2{
+    font-family: Georgia,sans-serif;
+    color: darkorange;
+    text-align: center;
+}
+
+.head2.two{
+    background-color: rgb(233, 142, 142);
+    color: white;
+    font-size: 20px;
+    
+
+}
+
