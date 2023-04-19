@@ -1,0 +1,39 @@
+img {
+    height: 350px;;
+    width: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.head{
+    font-family:cursive,sans-serif ;
+    color: orangered;
+    font-size: 20px;
+    text-align: center;
+}
+
+div.two{
+    background-color: orange;
+    color: aliceblue;
+    font-family: cursive,sans-serif;
+}
+
+p{
+    background-color: burlywood;
+    font-size: 18px;
+    font-family: "American typewriter", sans-serif ;
+}
+
+#ing{
+    background-color: green;
+    color: whitesmoke;
+    font-size: 20px;
+    
+}
+
+
+#stp {
+    background-color: blueviolet;
+    color: white;
+}
