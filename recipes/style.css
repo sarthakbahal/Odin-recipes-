@@ -54,3 +54,11 @@ p{
 
 }
 
+/* below this , it is for french fries */
+
+.head2.three{
+    background-color: rgb(209, 136, 0);
+    color: azure;
+    font-family:'Gill Sans', sans-serif;
+
+}
